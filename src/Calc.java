@@ -9,6 +9,14 @@ public class Calc {
         Scanner scanner = new Scanner(System.in);
         String userInput = scanner.nextLine();
         System.out.println(Parser.userOtput(userInput));
+        System.out.println(Parser.userOtput(userInput));
+        System.out.println(Parser.userOtput(userInput));
+        System.out.println(Parser.userOtput(userInput));
+        System.out.println(Parser.userOtput(userInput));
+        System.out.println(Parser.userOtput(userInput));
+        System.out.println(Parser.userOtput(userInput));
+        System.out.println(Parser.userOtput(userInput));
+        System.out.println(Parser.userOtput(userInput));
     }
 
 
